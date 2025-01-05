@@ -1,4 +1,15 @@
+body {
+    background-color: brown;
+}
 footer {
     text-align: center;
     font-size: 12px;
+}
+
+.overall {
+    margin: 20px auto;
+    padding: 20px 20px;
+    background-color: aqua;
+    max-width: 500px;
+    text-align: center;
 }
